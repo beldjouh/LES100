@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LES100/static/css/main.2023f03c.chunk.css",
+    "main.js": "/LES100/static/js/main.ed3593db.chunk.js",
+    "main.js.map": "/LES100/static/js/main.ed3593db.chunk.js.map",
+    "runtime-main.js": "/LES100/static/js/runtime-main.7cc596c9.js",
+    "runtime-main.js.map": "/LES100/static/js/runtime-main.7cc596c9.js.map",
+    "static/js/2.4f5c03f2.chunk.js": "/LES100/static/js/2.4f5c03f2.chunk.js",
+    "static/js/2.4f5c03f2.chunk.js.map": "/LES100/static/js/2.4f5c03f2.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/LES100/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/LES100/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/LES100/index.html",
+    "static/css/main.2023f03c.chunk.css.map": "/LES100/static/css/main.2023f03c.chunk.css.map",
+    "static/js/2.4f5c03f2.chunk.js.LICENSE.txt": "/LES100/static/js/2.4f5c03f2.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/LES100/static/media/1.75f03515.png",
+    "static/media/reset.css": "/LES100/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cc596c9.js",
+    "static/js/2.4f5c03f2.chunk.js",
+    "static/css/main.2023f03c.chunk.css",
+    "static/js/main.ed3593db.chunk.js"
+  ]
+}
